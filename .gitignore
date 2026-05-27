@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Data / large files
+*.csv
+*.parquet
+*.h5
+*.hdf5
+
+# Keep the model pickle (it's small)
+# linear_regression_model.pkl  ← tracked intentionally
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
