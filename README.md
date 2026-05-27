@@ -177,7 +177,7 @@ See [`requirements.txt`](requirements.txt) — core stack: `pandas`, `numpy`, `s
 
 ## 👤 Author
 
-**Pranav Vadagbalkar**  
+**Pranav Lakhe**  
 B.Tech Student · Symbiosis Institute of Technology, Nagpur  
 AI/ML Intern @ Maincrafts Technology  
 🔗 [GitHub](https://github.com/Pranavv28)
