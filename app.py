@@ -233,7 +233,7 @@ with info_col:
 st.markdown("---")
 st.markdown("""
 <div style="text-align:center; color:#9aa0a6; font-size:0.8rem;">
-    Built by <b>Pranav Vadagbalkar</b> · Maincrafts Technology AI/ML Internship · Task 1
+    Built by <b>Pranav Lakhe</b> · Maincrafts Technology AI/ML Internship · Task 1
     &nbsp;|&nbsp; Dataset: California Housing (sklearn) &nbsp;|&nbsp;
     <a href="https://github.com/Pranavv28" style="color:#1a73e8;">GitHub</a>
 </div>
